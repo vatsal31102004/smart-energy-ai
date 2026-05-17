@@ -105,8 +105,8 @@ SMART ENERGY MONITOR/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/roshan2156/smartenergyprediction.git
-cd smartenergyprediction
+git clone https://github.com/vatsal31102004/smart-energy-ai.git
+cd smart-energy-ai
 ```
 
 ### 2️⃣ Install Dependencies
@@ -214,6 +214,6 @@ Go to Render Dashboard -> Environment Tab -> Add Variable:
 
 ## 👨‍💻 Contributors
 **Team Members:**
-- Roshan Patil
 - Vatsal Lad
+- Roshan Patil
 - Zeel Bhandari
